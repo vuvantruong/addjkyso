@@ -1,0 +1,12 @@
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\obj\Debug\KySoADDJ.Properties.Resources.resources
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\obj\Debug\KySoADDJ.csproj.GenerateResource.cache
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\obj\Debug\KySoADDJ.csproj.CoreCompileInputs.cache
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\bin\Debug\KySoADDJ.exe
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\bin\Debug\KySoADDJ.pdb
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\obj\Debug\KySoADDJ.exe
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\obj\Debug\KySoADDJ.pdb
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\bin\Debug\edXMLConverter.dll
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\bin\Debug\VGCACrypto.dll
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\obj\Debug\KySoADDJ.csproj.CopyComplete
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\obj\Debug\KySoADDJ.KySo.resources
+C:\Users\Vu Van Truong\source\repos\KySoADDJ\KySoADDJ\obj\Debug\KySoADDJ.csprojAssemblyReference.cache
